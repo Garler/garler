@@ -1,29 +1,27 @@
-## En
-### Hi there 👋 My name is Igor Repin
-#### Android developer
+# En
+## Hi there! 👋 I'm Igor Repin  
+## Android Developer | Creator of [LuntanTravel](https://luntan.pro/)  
 
-- 🔭 I’m currently working on my project [Luntantravel](https://luntan.pro/)
-- 🧠 I study in the [@netology-code](https://github.com/netology-code)
-- 🌱 I've basic in Java and Kotlin skills
-- 📫 How to reach me: repin_iv@vk.com 
+- 🚀 **Mobile Development:** I develop Android applications, specializing in Kotlin and Jetpack Compose  
+- 🌍 **My Project:** I'm working on [LuntanTravel](https://luntan.pro/) — a service for independent travelers  
+- 🎓 **Education:** Graduate of [@netology-code](https://github.com/netology-code)  
+- 🔧 **Technologies:** Kotlin, Java, Jetpack Compose, Room, Retrofit, Firebase, CI/CD  
+- 🛠 **Learning:** iOS development and Ruby to improve collaboration with project partners  
+- 📫 **Contact:** repin_iv@vk.com  
+
+Looking forward to new connections and collaborations! 🚀  
 
 -----
-<!--
-**Garler/garler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Ru
+## Привет! 👋 Я Игорь Репин  
+## Android-разработчик | Создатель [LuntanTravel](https://luntan.pro/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **Мобильная разработка:** Разрабатываю Android-приложения, специализируюсь на Kotlin и Jetpack Compose  
+- 🌍 **Мой проект:** Работаю над [LuntanTravel](https://luntan.pro/) — сервисом для самостоятельных путешествий  
+- 🎓 **Образование:** Выпускник [@netology-code](https://github.com/netology-code)  
+- 🔧 **Технологии:** Kotlin, Java, Jetpack Compose, Room, Retrofit, Firebase, CI/CD  
+- 🛠 **Изучаю:** iOS-разработку и Ruby для улучшения взаимодействия с партнёрами проекта  
+- 📫 **Контакты:** repin_iv@vk.com  
 
-## Ru
-### Привет! 👋 Я Игорь Репин
-#### Android-разработчик
-
-- 🔭 В настоящее время я работаю над своим проектом [Luntantravel](https://luntan.pro/)
-- 🧠 Я учусь в [@netology-code](https://github.com/netology-code)
-- 🌱 У меня базовые навыки работы с Java и Kotlin 
-- 📫 Со мной можно связаться: repin_iv@vk.com 
+Буду рад новым знакомствам и сотрудничеству! 🚀  
